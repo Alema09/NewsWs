@@ -1,0 +1,25 @@
+body {
+  margin: 0 auto;
+  background-attachment: fixed;
+ }
+
+ .navbar-expand-lg {
+     background-color: white;
+ }
+ .logo {
+   margin-left: 100px;
+ }
+ .logotip {
+   width:200px;
+   height: 40px;
+ }
+ .nav-item {
+   margin-left: 70px;
+ }
+ .nav-link {
+   text-decoration: underline;
+ }
+
+ .addNews {
+
+}
